@@ -6,4 +6,4 @@ __pycache__/
 *.pyo
 *.pyd
 allure-results/*
-allure-reports/
+allure-report/
