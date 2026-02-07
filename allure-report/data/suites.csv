@@ -1,6 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","713","Проверка авторизации с валидными данными","tests","2026-02-07","passed","2026-02-07","TestLogin","test_login","",""
-"","672","Проверка авторизации с невалидными данными","tests","2026-02-07","passed","2026-02-07","TestLogin","test_login","",""
-"","5769","Aвторизация пользователем с задежками","tests","2026-02-07","passed","2026-02-07","TestLogin","test_login","",""
-"","907","Авторизация с заблокированным пользователем","tests","2026-02-07","passed","2026-02-07","TestLogin","test_login","",""
-"","660","Авторизация с пустыми полями","tests","2026-02-07","passed","2026-02-07","TestLogin","test_login","",""
